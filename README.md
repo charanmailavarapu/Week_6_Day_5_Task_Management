@@ -7,7 +7,6 @@ This repository contains the code for **React Week 6 Day 5** practice/project.
 To clone this repository to your local machine, run the following command in your terminal or Git Bash:
 
 ```bash
-git clone https://github.com/Kumarswamy-palakuri/react-week-6-day-5.git
 ```
 ## 🚀 Setup Instructions
 
