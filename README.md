@@ -7,6 +7,7 @@ This repository contains the code for **React Week 6 Day 5** practice/project.
 To clone this repository to your local machine, run the following command in your terminal or Git Bash:
 
 ```bash
+https://github.com/charanmailavarapu/Week_6_Day_5_Task_Management.git
 ```
 ## 🚀 Setup Instructions
 
